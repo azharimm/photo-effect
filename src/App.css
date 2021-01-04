@@ -52,7 +52,7 @@ body {
 }
 
 .sidebar-item.active {
-  background-color: hsl(265, 100%, 70%));
+  background-color: hsl(265, 100%, 70%);
 }
 
 .sidebar-item::after {
